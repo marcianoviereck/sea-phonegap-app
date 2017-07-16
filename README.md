@@ -6,12 +6,12 @@
 
   For this course we will require the following:
 
-    [Atom](https://atom.io/)
-    [Git](https://git-scm.com/downloads)
-    [Phonegap](http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/)
-    [Phonegap CLI](http://docs.phonegap.com/getting-started/1-install-phonegap/cli/)
-    [nodejs](https://nodejs.org/en/download/)
-    Extra: [gitkraken](https://www.gitkraken.com/download)
+* [Atom](https://atom.io/)
+* [Git](https://git-scm.com/downloads)
+* [Phonegap](http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/)
+* [Phonegap CLI](http://docs.phonegap.com/getting-started/1-install-phonegap/cli/)
+* [nodejs](https://nodejs.org/en/download/)
+* Extra: [gitkraken](https://www.gitkraken.com/download)
 
 ## Usage
 
